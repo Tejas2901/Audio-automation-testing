@@ -1,0 +1,31 @@
+iter,random_start,ad_start,actual_ad,in_db,detected_ad,input_confidence,result
+0,484913,484913,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!-enc,0.06,True
+1,484913,486913,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!-enc,0.04,True
+2,484913,488913,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!-enc,0.06,True
+0,558827,558827,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple-enc,0.18,True
+1,558827,560827,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple-enc,0.02,True
+2,558827,562827,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple-enc,0.2,True
+0,671550,671550,Great for the good  ft. Rahul Dravid  CRED-enc,False,Great for the good  ft. Rahul Dravid  CRED-enc,0.04,True
+1,671550,673550,Great for the good  ft. Rahul Dravid  CRED-enc,False,Great for the good  ft. Rahul Dravid  CRED-enc,0.05,True
+2,671550,675550,Great for the good  ft. Rahul Dravid  CRED-enc,False,Great for the good  ft. Rahul Dravid  CRED-enc,0.05,True
+0,618748,618748,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED-enc,0.04,True
+1,618748,620748,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED-enc,0.05,True
+2,618748,622748,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED-enc,0.04,True
+0,226511,226511,juice_wrld,True,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,0.03,True
+1,226511,228511,juice_wrld,True,No geometry box_ No problem for #SuperPapa!-enc,0.01,True
+2,226511,230511,juice_wrld,True,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,0.02,True
+0,240749,240749,juice_wrld,True,OnePlus 12 - Smooth Beyond Belief-enc,0.03,True
+1,240749,242749,juice_wrld,True,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,0.02,True
+2,240749,244749,juice_wrld,True,Spotify  Sabzi Mandi Sync-enc,0.01,True
+0,882038,882038,Myntra x Kiara Advani (Flight)-enc,False,Be Extraordinary Everyday With Myntra-enc,0.05,False
+1,882038,884038,Myntra x Kiara Advani (Flight)-enc,False,Be Extraordinary Everyday With Myntra-enc,0.04,False
+2,882038,886038,Myntra x Kiara Advani (Flight)-enc,False,Urban Company  Salon at Home-enc,0.02,False
+0,376242,376242,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,0.06,True
+1,376242,378242,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,The-Lights-Galaxia--While-She-Sleeps-enc,0.09,False
+2,376242,380242,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,0.03,True
+0,682218,682218,saajna,True,Play it different  CRED-enc,0.03,True
+1,682218,684218,saajna,True,The-Lights-Galaxia--While-She-Sleeps-enc,0.06,True
+2,682218,686218,saajna,True,Eat what makes you happy  Dum Dum Fire Fire  Zomato-enc,0.02,True
+0,350385,350385,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,0.06,True
+1,350385,352385,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,0.03,True
+2,350385,354385,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,0.04,True
