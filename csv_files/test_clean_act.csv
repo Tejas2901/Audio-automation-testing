@@ -1,0 +1,301 @@
+iter,random_start,ad_start,actual_ad,in_db,detected_ad,input_confidence,result
+0,573144,573144,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple,0.11,False
+1,573144,583144,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec-enc",False,Introducing iPhone 15  WOW  Apple,0.13,False
+2,573144,593144,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec-enc",False,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec",0.09,False
+0,647376,647376,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.09,False
+1,647376,657376,Great for the good  ft. Rahul Dravid  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.16,False
+2,647376,667376,Great for the good  ft. Rahul Dravid  CRED-enc,False,Great for the good  ft. Rahul Dravid  CRED,0.05,False
+0,506501,506501,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.1,False
+1,506501,516501,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.14,False
+2,506501,526501,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+0,295479,295479,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.15,False
+1,295479,305479,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.12,False
+2,295479,315479,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,OnePlus 12 - Smooth Beyond Belief,0.2,False
+0,30218,30218,subway-enc,False,Introducing iPhone 15  WOW  Apple,0.12,False
+1,30218,40218,subway-enc,False,subway,0.08,False
+2,30218,50218,Play it different  ft. Ravi Shastri  CRED-enc,False,Play it different  ft. Ravi Shastri  CRED,0.05,False
+0,872712,872712,Myntra x Kiara Advani (Flight)-enc,False,Be Extraordinary Everyday With Myntra,0.07,False
+1,872712,882712,Myntra x Kiara Advani (Flight)-enc,False,Myntra x Kiara Advani (Flight),0.07,False
+2,872712,892712,Myntra x Kiara Advani (Flight)-enc,False,Myntra x Kiara Advani (Flight),0.07,False
+0,491216,491216,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.07,False
+1,491216,501216,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.11,False
+2,491216,511216,Furlenco presents the Home Sapiens-enc,False,Furlenco presents the Home Sapiens,0.09,False
+0,648332,648332,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.09,False
+1,648332,658332,Great for the good  ft. Rahul Dravid  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.14,False
+2,648332,668332,Great for the good  ft. Rahul Dravid  CRED-enc,False,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec",0.06,False
+0,333130,333130,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.1,False
+1,333130,343130,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+2,333130,353130,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+0,423918,423918,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,OnePlus 12 - Smooth Beyond Belief,0.2,False
+1,423918,433918,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,verizon,0.09,False
+2,423918,443918,Manyavar-enc,False,verizon,0.11,False
+0,479267,479267,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Introducing iPhone 15  WOW  Apple,0.14,False
+1,479267,489267,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.07,False
+2,479267,499267,Furlenco presents the Home Sapiens-enc,False,OnePlus 12 - Smooth Beyond Belief,0.17,False
+0,692202,692202,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.12,True
+1,692202,702202,saajna,True,Eat what makes you happy  Dum Dum Fire Fire  Zomato,0.04,True
+2,692202,712202,saajna,True,verizon,0.11,True
+0,452232,452232,Manyavar-enc,False,Introducing iPhone 15  WOW  Apple,0.11,False
+1,452232,462232,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.07,False
+2,452232,472232,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.07,False
+0,776234,776234,saajna,True,Introducing iPhone 15  WOW  Apple,0.15,True
+1,776234,786234,saajna,True,Furlenco presents the Home Sapiens,0.12,True
+2,776234,796234,saajna,True,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.08,True
+0,296077,296077,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.15,False
+1,296077,306077,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.13,False
+2,296077,316077,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.16,False
+0,486441,486441,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Furlenco presents the Home Sapiens,0.09,False
+1,486441,496441,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.14,False
+2,486441,506441,Furlenco presents the Home Sapiens-enc,False,Furlenco presents the Home Sapiens,0.07,False
+0,856779,856779,Myntra x Kiara Advani (Flight)-enc,False,Be Extraordinary Everyday With Myntra,0.1,False
+1,856779,866779,Myntra x Kiara Advani (Flight)-enc,False,Be Extraordinary Everyday With Myntra,0.1,False
+2,856779,876779,Myntra x Kiara Advani (Flight)-enc,False,Myntra x Kiara Advani (Flight),0.08,False
+0,472719,472719,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.07,False
+1,472719,482719,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Introducing iPhone 15  WOW  Apple,0.14,False
+2,472719,492719,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,OnePlus 12 - Smooth Beyond Belief,0.18,False
+0,297335,297335,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.13,False
+1,297335,307335,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.14,False
+2,297335,317335,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.16,False
+0,603197,603197,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec-enc",False,OnePlus 12 - Smooth Beyond Belief,0.23,False
+1,603197,613197,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.18,False
+2,603197,623197,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.1,False
+0,210647,210647,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.14,True
+1,210647,220647,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.15,True
+2,210647,230647,juice_wrld,True,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.08,True
+0,356663,356663,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+1,356663,366663,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.1,False
+2,356663,376663,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Introducing iPhone 15  WOW  Apple,0.12,False
+0,634434,634434,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Furlenco presents the Home Sapiens,0.11,False
+1,634434,644434,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+2,634434,654434,Great for the good  ft. Rahul Dravid  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+0,521743,521743,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.12,False
+1,521743,531743,Furlenco presents the Home Sapiens-enc,False,verizon,0.13,False
+2,521743,541743,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+0,671375,671375,Great for the good  ft. Rahul Dravid  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.05,False
+1,671375,681375,saajna,True,subway,0.06,True
+2,671375,691375,saajna,True,Introducing iPhone 15  WOW  Apple,0.08,True
+0,149937,149937,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.16,True
+1,149937,159937,juice_wrld,True,OnePlus 12 - Smooth Beyond Belief,0.21,True
+2,149937,169937,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.11,True
+0,787654,787654,saajna,True,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.08,True
+1,787654,797654,saajna,True,Introducing iPhone 15  WOW  Apple,0.13,True
+2,787654,807654,saajna,True,Furlenco presents the Home Sapiens,0.11,True
+0,42448,42448,subway-enc,False,subway,0.07,False
+1,42448,52448,Play it different  ft. Ravi Shastri  CRED-enc,False,Furlenco presents the Home Sapiens,0.11,False
+2,42448,62448,Play it different  ft. Ravi Shastri  CRED-enc,False,walmart,0.06,False
+0,832112,832112,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.17,True
+1,832112,842112,saajna,True,Introducing iPhone 15  WOW  Apple,0.08,True
+2,832112,852112,Myntra x Kiara Advani (Flight)-enc,False,Myntra x Kiara Advani (Flight),0.06,False
+0,122125,122125,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.16,True
+1,122125,132125,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.14,True
+2,122125,142125,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.14,True
+0,287190,287190,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.14,False
+1,287190,297190,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.14,False
+2,287190,307190,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,OnePlus 12 - Smooth Beyond Belief,0.17,False
+0,865340,865340,Myntra x Kiara Advani (Flight)-enc,False,Be Extraordinary Everyday With Myntra,0.1,False
+1,865340,875340,Myntra x Kiara Advani (Flight)-enc,False,Myntra x Kiara Advani (Flight),0.08,False
+2,865340,885340,Myntra x Kiara Advani (Flight)-enc,False,OnePlus 12 - Smooth Beyond Belief,0.12,False
+0,521647,521647,Furlenco presents the Home Sapiens-enc,False,verizon,0.11,False
+1,521647,531647,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.17,False
+2,521647,541647,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+0,872681,872681,Myntra x Kiara Advani (Flight)-enc,False,Myntra x Kiara Advani (Flight),0.08,False
+1,872681,882681,Myntra x Kiara Advani (Flight)-enc,False,Myntra x Kiara Advani (Flight),0.06,False
+2,872681,892681,Myntra x Kiara Advani (Flight)-enc,False,Myntra x Kiara Advani (Flight),0.06,False
+0,36796,36796,subway-enc,False,subway,0.08,False
+1,36796,46796,Play it different  ft. Ravi Shastri  CRED-enc,False,Play it different  ft. Ravi Shastri  CRED,0.04,False
+2,36796,56796,Play it different  ft. Ravi Shastri  CRED-enc,False,Play it different  ft. Ravi Shastri  CRED,0.06,False
+0,638956,638956,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,OnePlus 12 - Smooth Beyond Belief,0.23,False
+1,638956,648956,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.09,False
+2,638956,658956,Great for the good  ft. Rahul Dravid  CRED-enc,False,Great for the good  ft. Rahul Dravid  CRED,0.05,False
+0,187931,187931,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.12,True
+1,187931,197931,juice_wrld,True,walmart,0.07,True
+2,187931,207931,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.13,True
+0,378047,378047,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Introducing iPhone 15  WOW  Apple,0.11,False
+1,378047,388047,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.1,False
+2,378047,398047,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+0,704301,704301,saajna,True,Introducing iPhone 15  WOW  Apple,0.15,True
+1,704301,714301,saajna,True,Introducing iPhone 15  WOW  Apple,0.17,True
+2,704301,724301,saajna,True,Introducing iPhone 15  WOW  Apple,0.15,True
+0,252657,252657,juice_wrld,True,Great for the Good  ft. Neeraj Chopra  CRED,0.03,True
+1,252657,262657,juice_wrld,True,walmart,0.05,True
+2,252657,272657,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.09,False
+0,814242,814242,saajna,True,Introducing iPhone 15  WOW  Apple,0.12,True
+1,814242,824242,saajna,True,Introducing iPhone 15  WOW  Apple,0.11,True
+2,814242,834242,saajna,True,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.06,True
+0,89848,89848,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.12,True
+1,89848,99848,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.11,True
+2,89848,109848,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.11,True
+0,342248,342248,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.1,False
+1,342248,352248,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+2,342248,362248,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+0,130188,130188,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.13,True
+1,130188,140188,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.12,True
+2,130188,150188,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.16,True
+0,600007,600007,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec-enc",False,verizon,0.12,False
+1,600007,610007,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec-enc",False,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec",0.1,False
+2,600007,620007,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.1,False
+0,644866,644866,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.09,False
+1,644866,654866,Great for the good  ft. Rahul Dravid  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+2,644866,664866,Great for the good  ft. Rahul Dravid  CRED-enc,False,Great for the good  ft. Rahul Dravid  CRED,0.05,False
+0,155512,155512,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.16,True
+1,155512,165512,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.16,True
+2,155512,175512,juice_wrld,True,No geometry box_ No problem for #SuperPapa!,0.03,True
+0,349301,349301,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.1,False
+1,349301,359301,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.12,False
+2,349301,369301,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+0,479403,479403,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.07,False
+1,479403,489403,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.08,False
+2,479403,499403,Furlenco presents the Home Sapiens-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.1,False
+0,519673,519673,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.13,False
+1,519673,529673,Furlenco presents the Home Sapiens-enc,False,Myntra x Kiara Advani (Flight),0.09,False
+2,519673,539673,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple,0.17,False
+0,752618,752618,saajna,True,Introducing iPhone 15  WOW  Apple,0.18,True
+1,752618,762618,saajna,True,Introducing iPhone 15  WOW  Apple,0.14,True
+2,752618,772618,saajna,True,Introducing iPhone 15  WOW  Apple,0.16,True
+0,1321,1321,subway-enc,False,subway,0.08,False
+1,1321,11321,subway-enc,False,OnePlus 12 - Smooth Beyond Belief,0.18,False
+2,1321,21321,subway-enc,False,subway,0.1,False
+0,26509,26509,subway-enc,False,subway,0.09,False
+1,26509,36509,subway-enc,False,subway,0.09,False
+2,26509,46509,Play it different  ft. Ravi Shastri  CRED-enc,False,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.06,False
+0,717008,717008,saajna,True,Myntra x Kiara Advani (Flight),0.09,True
+1,717008,727008,saajna,True,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.08,True
+2,717008,737008,saajna,True,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.09,True
+0,70933,70933,juice_wrld,True,Furlenco presents the Home Sapiens,0.08,True
+1,70933,80933,juice_wrld,True,Be Extraordinary Everyday With Myntra,0.05,True
+2,70933,90933,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.13,True
+0,216591,216591,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.15,True
+1,216591,226591,juice_wrld,True,verizon,0.1,True
+2,216591,236591,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.09,True
+0,179706,179706,juice_wrld,True,Farmlite Millet Cookies to make you go Ohohoho!,0.04,True
+1,179706,189706,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.13,True
+2,179706,199706,juice_wrld,True,OnePlus 12 - Smooth Beyond Belief,0.17,True
+0,667716,667716,Great for the good  ft. Rahul Dravid  CRED-enc,False,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec",0.06,False
+1,667716,677716,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.17,True
+2,667716,687716,saajna,True,Be Extraordinary Everyday With Myntra,0.04,True
+0,739162,739162,saajna,True,Introducing iPhone 15  WOW  Apple,0.16,True
+1,739162,749162,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.21,True
+2,739162,759162,saajna,True,Furlenco presents the Home Sapiens,0.11,True
+0,561654,561654,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple,0.14,False
+1,561654,571654,Introducing iPhone 15  WOW  Apple-enc,False,Introducing iPhone 15  WOW  Apple,0.13,False
+2,561654,581654,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec-enc",False,Furlenco presents the Home Sapiens,0.1,False
+0,803338,803338,saajna,True,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.07,True
+1,803338,813338,saajna,True,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec",0.07,True
+2,803338,823338,saajna,True,Furlenco presents the Home Sapiens,0.08,True
+0,777683,777683,saajna,True,Introducing iPhone 15  WOW  Apple,0.14,True
+1,777683,787683,saajna,True,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.12,True
+2,777683,797683,saajna,True,Introducing iPhone 15  WOW  Apple,0.12,True
+0,70198,70198,juice_wrld,True,subway,0.06,True
+1,70198,80198,juice_wrld,True,Spotify  Sabzi Mandi Sync,0.03,True
+2,70198,90198,juice_wrld,True,Save Your Team From Endless Writing Tasks  Grammarly for Business,0.05,True
+0,797999,797999,saajna,True,Introducing iPhone 15  WOW  Apple,0.12,True
+1,797999,807999,saajna,True,Introducing iPhone 15  WOW  Apple,0.14,True
+2,797999,817999,saajna,True,Introducing iPhone 15  WOW  Apple,0.13,True
+0,495409,495409,Furlenco presents the Home Sapiens-enc,False,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec",0.06,False
+1,495409,505409,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.11,False
+2,495409,515409,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.12,False
+0,423414,423414,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan,0.09,False
+1,423414,433414,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan,0.07,False
+2,423414,443414,Manyavar-enc,False,OnePlus 12 - Smooth Beyond Belief,0.19,False
+0,55109,55109,Play it different  ft. Ravi Shastri  CRED-enc,False,Be Extraordinary Everyday With Myntra,0.08,False
+1,55109,65109,juice_wrld,True,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan,0.05,True
+2,55109,75109,juice_wrld,True,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.05,True
+0,261147,261147,juice_wrld,True,subway,0.05,True
+1,261147,271147,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,OnePlus 12 - Smooth Beyond Belief,0.13,False
+2,261147,281147,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.11,False
+0,83020,83020,juice_wrld,True,verizon,0.08,True
+1,83020,93020,juice_wrld,True,Myntra x Kiara Advani (Flight),0.07,True
+2,83020,103020,juice_wrld,True,verizon,0.08,True
+0,367755,367755,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+1,367755,377755,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Introducing iPhone 15  WOW  Apple,0.11,False
+2,367755,387755,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.09,False
+0,706547,706547,saajna,True,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.08,True
+1,706547,716547,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.23,True
+2,706547,726547,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.22,True
+0,757294,757294,saajna,True,Myntra x Kiara Advani (Flight),0.08,True
+1,757294,767294,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.19,True
+2,757294,777294,saajna,True,Introducing iPhone 15  WOW  Apple,0.12,True
+0,661699,661699,Great for the good  ft. Rahul Dravid  CRED-enc,False,Myntra x Kiara Advani (Flight),0.1,False
+1,661699,671699,Great for the good  ft. Rahul Dravid  CRED-enc,False,Myntra x Kiara Advani (Flight),0.06,False
+2,661699,681699,saajna,True,You can quickly pay with no PIN with UPI lite on PhonePe,0.03,True
+0,485973,485973,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.08,False
+1,485973,495973,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.12,False
+2,485973,505973,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.11,False
+0,502089,502089,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.13,False
+1,502089,512089,Furlenco presents the Home Sapiens-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.06,False
+2,502089,522089,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.16,False
+0,237671,237671,juice_wrld,True,Myntra x Kiara Advani (Flight),0.05,True
+1,237671,247671,juice_wrld,True,Eat what makes you happy  Dum Dum Fire Fire  Zomato,0.03,True
+2,237671,257671,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.05,True
+0,99146,99146,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.11,True
+1,99146,109146,juice_wrld,True,verizon,0.09,True
+2,99146,119146,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.14,True
+0,722204,722204,saajna,True,Myntra x Kiara Advani (Flight),0.09,True
+1,722204,732204,saajna,True,Amazon.in - Aaj kya Khareeda_  Personal Care,0.04,True
+2,722204,742204,saajna,True,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.11,True
+0,218098,218098,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.17,True
+1,218098,228098,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.12,True
+2,218098,238098,juice_wrld,True,Myntra x Kiara Advani (Flight),0.06,True
+0,196124,196124,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.15,True
+1,196124,206124,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.15,True
+2,196124,216124,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.17,True
+0,384210,384210,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.1,False
+1,384210,394210,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+2,384210,404210,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan,0.09,False
+0,236879,236879,juice_wrld,True,OnePlus 12 - Smooth Beyond Belief,0.14,True
+1,236879,246879,juice_wrld,True,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.07,True
+2,236879,256879,juice_wrld,True,Urban Company  Salon at Home,0.03,True
+0,637283,637283,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.08,False
+1,637283,647283,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.09,False
+2,637283,657283,Great for the good  ft. Rahul Dravid  CRED-enc,False,Be Extraordinary Everyday With Myntra,0.09,False
+0,790534,790534,saajna,True,Great for the Good  ft. Neeraj Chopra  CRED,0.07,True
+1,790534,800534,saajna,True,verizon,0.1,True
+2,790534,810534,saajna,True,Furlenco presents the Home Sapiens,0.11,True
+0,697043,697043,saajna,True,pizza_hut,0.04,True
+1,697043,707043,saajna,True,Introducing iPhone 15  WOW  Apple,0.15,True
+2,697043,717043,saajna,True,Introducing iPhone 15  WOW  Apple,0.16,True
+0,221757,221757,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.17,True
+1,221757,231757,juice_wrld,True,Eat what makes you happy  Dum Dum Fire Fire  Zomato,0.03,True
+2,221757,241757,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.11,True
+0,692968,692968,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.13,True
+1,692968,702968,saajna,True,Introducing iPhone 15  WOW  Apple,0.12,True
+2,692968,712968,saajna,True,OnePlus 12 - Smooth Beyond Belief,0.19,True
+0,615947,615947,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.17,False
+1,615947,625947,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Myntra x Kiara Advani (Flight),0.09,False
+2,615947,635947,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.08,False
+0,704301,704301,saajna,True,Introducing iPhone 15  WOW  Apple,0.15,True
+1,704301,714301,saajna,True,Introducing iPhone 15  WOW  Apple,0.17,True
+2,704301,724301,saajna,True,Introducing iPhone 15  WOW  Apple,0.15,True
+0,592555,592555,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec-enc",False,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec",0.1,False
+1,592555,602555,"Bingo! Original Style  Taste so original, duplicate impossible!  Hindi  30 sec-enc",False,Introducing iPhone 15  WOW  Apple,0.14,False
+2,592555,612555,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.11,False
+0,828865,828865,saajna,True,Furlenco presents the Home Sapiens,0.08,True
+1,828865,838865,saajna,True,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.09,True
+2,828865,848865,saajna,True,Myntra x Kiara Advani (Flight),0.05,True
+0,406818,406818,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,Furlenco presents the Home Sapiens,0.11,False
+1,406818,416818,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan,0.1,False
+2,406818,426818,Glasses That Are Perfect For a Corporate Look  Glasses Badlo Vibe Badlo ft. Kiara & Karan-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+0,68030,68030,juice_wrld,True,Myntra x Kiara Advani (Flight),0.05,True
+1,68030,78030,juice_wrld,True,Furlenco presents the Home Sapiens,0.08,True
+2,68030,88030,juice_wrld,True,Amazon.in - Aaj kya Khareeda_  Personal Care,0.04,True
+0,342710,342710,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+1,342710,352710,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+2,342710,362710,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,OnePlus 12 - Smooth Beyond Belief,0.2,False
+0,185418,185418,juice_wrld,True,OnePlus 12 - Smooth Beyond Belief,0.18,True
+1,185418,195418,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.16,True
+2,185418,205418,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.12,True
+0,619927,619927,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.1,False
+1,619927,629927,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,verizon,0.11,False
+2,619927,639927,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+0,643395,643395,Great for the Good  ft. Neeraj Chopra  CRED-enc,False,Introducing iPhone 15  WOW  Apple,0.15,False
+1,643395,653395,Great for the good  ft. Rahul Dravid  CRED-enc,False,Great for the Good  ft. Neeraj Chopra  CRED,0.09,False
+2,643395,663395,Great for the good  ft. Rahul Dravid  CRED-enc,False,OnePlus 11R 5G Solar Red  Relive the Red Rush,0.08,False
+0,76017,76017,juice_wrld,True,Introducing iPhone 15  WOW  Apple,0.11,True
+1,76017,86017,juice_wrld,True,Furlenco presents the Home Sapiens,0.07,True
+2,76017,96017,juice_wrld,True,Furlenco presents the Home Sapiens,0.09,True
+0,481385,481385,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Introducing iPhone 15  WOW  Apple,0.13,False
+1,481385,491385,Farmlite Millet Cookies to make you go Ohohoho!-enc,False,Farmlite Millet Cookies to make you go Ohohoho!,0.07,False
+2,481385,501385,Furlenco presents the Home Sapiens-enc,False,Introducing iPhone 15  WOW  Apple,0.13,False
+0,332094,332094,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism-enc,False,Gujarat Tourism Advertisement Ft. Amitabh Bachan  Ahmedabad Tourism,0.1,False
+1,332094,342094,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False
+2,332094,352094,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation-enc,False,Ad for Cult fit fitness #advertising #ranveersingh #gym #fitness #motivation,0.11,False

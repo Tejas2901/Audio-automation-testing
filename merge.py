@@ -18,7 +18,7 @@ def merge_audios(audios):
         start_point += len(segment)
     return merged_audio, start_points
 
-def get_random_start(merged_audio, duration = 2000):
+def get_random_start(merged_audio, duration = 10000):
     random_start = random.randint(0, len(merged_audio) - duration)
     return random_start
 
@@ -52,17 +52,17 @@ def recognize_audio(file_path: str, file_format: str):
         return None
 
 
-def consective_random(merged_audio, recorded_merged, start_points):
-    with open('test_clean_act.csv', 'w', newline='') as csvfile:
+def consective_random(merged_audio, recorded_merged, start_points, no_of_test_cases, result_csv_name):
+    with open(result_csv_name, 'w', newline='') as csvfile:
         fieldnames = ['iter', 'random_start', 'ad_start','actual_ad','in_db', 'detected_ad', 'input_confidence', 'result',]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-        total_iterations = 10 * 3
-        with tqdm(total=total_iterations) as pbar:
-            for i in range(10):
+        total_random_starts = int(no_of_test_cases // 3 )
+        with tqdm(total= no_of_test_cases) as pbar:
+            for i in range(total_random_starts):
                 random_start = get_random_start(merged_audio)
                 for j in range(3):
-                    duration = 2000
+                    duration = 10000
                     ad_start = random_start + j * duration
                     clip_name = select_clip(recorded_merged, ad_start, start_points)
                     data = recognize_audio(clip_name, "mp3")
@@ -80,15 +80,15 @@ def consective_random(merged_audio, recorded_merged, start_points):
                     pbar.update(1)
         print("csv done")
 
-def contiguous_random(merged_audio, recorded_merged, start_points):
+def contiguous_random(merged_audio, recorded_merged, start_points, no_of_test_cases, result_csv_name):
     duration = 10000
-    with open('test_clean_act.csv', 'w', newline='') as csvfile:
+    with open(result_csv_name, 'w', newline='') as csvfile:
         fieldnames = ['iter', 'random_start', 'ad_start','actual_ad','in_db', 'detected_ad', 'input_confidence', 'result',]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
-        total_iterations = 10 * 6
-        with tqdm(total=total_iterations) as pbar:
-            for i in range(10):
+        total_random_starts = int(no_of_test_cases // 6)
+        with tqdm(total=no_of_test_cases) as pbar:
+            for i in range(100):
                 random_start = get_random_start(merged_audio)
                 ad_starts = get_contiguous_list(random_start, duration, recorded_merged)
 
@@ -97,7 +97,7 @@ def contiguous_random(merged_audio, recorded_merged, start_points):
                     ad_start = value[0]
                     actual_ad = clip_name.split(".mp3")[0]
                     slice_name = key
-                    data = recognize_audio(clip_name, "mp3")
+                    data = recognize_audio(clip_name, "mp3") 
                     try:
                         max_confidence_ad = max(data, key = lambda x: x['input_confidence'])
                     except:
@@ -129,15 +129,19 @@ def get_contiguous_list(random_start, duration, recorded_merged):
     return ad_starts 
     
 def main():
-    directory = "audio_files"
-    audio_files = [file for file in os.listdir(directory) if file.endswith(".mp3")]
-    audios = {file: AudioSegment.from_mp3(os.path.join(directory, file)) for file in audio_files}
+    audio_files_dir = "audio_files"
+    input_recorded_file = "mergedrecordedclean1.mp3"
+    result_csv_name = "clean_settings_nb-7.csv"
+    no_of_test_cases = 600
+
+    audio_files = [file for file in os.listdir(audio_files_dir) if file.endswith(".mp3")]
+    audios = {file: AudioSegment.from_mp3(os.path.join(audio_files_dir, file)) for file in audio_files}
 
     merged_audio, start_points = merge_audios(audios)
     merged_audio.export("merged_audio_file.mp3", format="mp3")
-    recorded_merged = AudioSegment.from_mp3("mergedrecordedclean1.mp3")
-    consective_random(merged_audio, recorded_merged, start_points)
-    #contiguous_random(merged_audio, recorded_merged, start_points)
+    recorded_merged = AudioSegment.from_mp3(input_recorded_file)
+    consective_random(merged_audio, recorded_merged, start_points, no_of_test_cases,result_csv_name)
+    #contiguous_random(merged_audio, recorded_merged, start_points, no_of_test_case, result_csv_name)
 
 if __name__ == "__main__":
     main()
